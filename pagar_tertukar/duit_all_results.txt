@@ -1,0 +1,6 @@
+COMPREHENSIVE DUIT KEY TESTING RESULTS
+============================================================
+Ciphertext: XfzTPfmbdXokxuiFqEqTSEZKjji
+Key: DUIT
+
+Subtraction result (Vigenere): fpbRWKKAnKiMfaprlDvijlHAwlP

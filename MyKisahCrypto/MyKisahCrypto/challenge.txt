@@ -1,0 +1,5 @@
+Soal:
+Sebuah file terkompresi jatuh dari isekai. Kerahkan seluruh kemampuan kriptografi-mu untuk menemukan flag-nya!
+
+Hint:
+Algoritma yang digunakan dalam soal ini diantaranya adalah SHA , AES , Base64 , HEX , dan Caesar Cipher .

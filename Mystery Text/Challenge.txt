@@ -1,0 +1,3 @@
+Di ruang server, sebuah komputer tertinggal menyala dengan file mystery.txt terbuka ditinggalkan oleh teknisi yang terburu-buru. Tugasmu: pecahkan isi file tersebut.
+
+Hint: Coba gunakan XOR

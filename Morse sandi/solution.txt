@@ -1,0 +1,3 @@
+Morse code: -.- .- -- ..- .... . -... .- - ... . -.- .- .-.. ..
+Decoded: KAMUHEBATSEKALI
+Flag: CYBERLAB{KAMUHEBATSEKALI}

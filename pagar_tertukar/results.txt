@@ -1,0 +1,164 @@
+RAIL FENCE PERMUTATION RESULTS
+================================================================================
+Ciphertext: XfzTPfmbdXokxuiFqEqTSEZKjji
+
+
+--- 2 Rails ---
+Perm (0, 1): XifFzqTEPqfTmSbEdZXKojkjxiu
+Perm (1, 0): uXifFzqTEPqfTmSbEdZXKojkjxi
+
+--- 3 Rails ---
+Perm (0, 1, 2): XbSdfXEozkZxTuKiPFjqfEjqmTi
+Perm (0, 2, 1): XibFfqdEzqXTTSoEPZkKfjxjmiu
+Perm (1, 0, 2): uXSfizETFPZfqmKbEdjXqojkTxi
+Perm (1, 2, 0): SXufEziTZPFfKmqbjdEXjoqkixT
+Perm (2, 0, 1): biXFdqfEXqzToSTEkZPKxjfjuim
+Perm (2, 1, 0): SbXdEXfoZkzxKuTijFPqjEfqiTm
+
+--- 4 Rails ---
+Perm (0, 1, 2, 3): XfiKFmfbqjEdzXqjToTkSiExPuZ
+Perm (0, 1, 3, 2): XfqiTmfbSFEdzXZqKoTkjEjxPui
+Perm (0, 2, 1, 3): XifKmFfqbjdEzqXjoTTSkixEPZu
+Perm (0, 2, 3, 1): XqfimTfSbFdEzZXqoKTjkExjPiu
+Perm (0, 3, 1, 2): XXqfTofkSmExzuZbKiTFjdjqPEi
+Perm (0, 3, 2, 1): XqXfoTfSkmxEzZubiKTjFdqjPiE
+Perm (1, 0, 2, 3): XXiKFfozqjETkPqjTfxmSiEbudZ
+Perm (1, 0, 3, 2): XXqiTfozSFETkPZqKfxmjEjbudi
+Perm (1, 2, 0, 3): qXXKofTzkjxTSPujifEmFiqbZdE
+Perm (1, 2, 3, 0): ZXXqofKzkTxTjPuSifjmFEqbidE
+Perm (1, 3, 0, 2): uXqXTfizSoETFPZkKfqmjxjbEdi
+Perm (1, 3, 2, 0): ZXuXifKzFoqTjPEkqfjmTxSbidE
+Perm (2, 0, 1, 3): XiXKfFoqzjTEkqPjfTxSmibEuZd
+Perm (2, 0, 3, 1): XqXifToSzFTEkZPqfKxjmEbjuid
+Perm (2, 1, 0, 3): qXXKfoTkzjTxSuPjfiEFmibqZEd
+Perm (2, 1, 3, 0): ZXXqfoKkzTTxjuPSfijFmEbqiEd
+Perm (2, 3, 0, 1): uqXXfTiSzoTEFZPkfKqjmxbjEid
+Perm (2, 3, 1, 0): ZuXXfiKFzoTqjEPkfqjTmxbSiEd
+Perm (3, 0, 1, 2): PXqXTofkSfExmuZzKibFjTjqdEi
+Perm (3, 0, 2, 1): PqXXoTfSkfxEmZuziKbjFTqjdiE
+Perm (3, 1, 0, 2): uPqXTfimSfEbFdZzKXqojTjkExi
+Perm (3, 1, 2, 0): ZPuXifKmFfqbjdEzqXjoTTSkixE
+Perm (3, 2, 0, 1): uqPXfTiSmfbEFZdzXKqjoTkjEix
+Perm (3, 2, 1, 0): ZuPXfiKFmfbqjEdzXqjToTkSiEx
+
+--- 5 Rails ---
+Perm (0, 1, 2, 3, 4): XPkqjTxffmuSjEibzdFZiKqXToE
+Perm (0, 1, 2, 4, 3): XPkEqZxffmuKTjibzdFjSiqXToE
+Perm (0, 1, 3, 2, 4): XPEkjxqffmTujiSbzdEFiqZXToK
+Perm (0, 1, 3, 4, 2): XPSkExEffmZuqiKbzdjFTqjXToi
+Perm (0, 1, 4, 2, 3): XPiEkZFffmqKxjEbzdqjuiTXToS
+Perm (0, 1, 4, 3, 2): XPSikFEffmZqxEKbzdjquTjXToi
+Perm (0, 2, 1, 3, 4): XkPqjTfxfumSjEbizFdZiKXqTEo
+Perm (0, 2, 1, 4, 3): XkPEqZfxfumKTjbizFdjSiXqTEo
+Perm (0, 2, 3, 1, 4): XEPkjxfqfTmujibSzEdFiqXZTKo
+Perm (0, 2, 3, 4, 1): XSPkExfEfZmuqibKzjdFTqXjTio
+Perm (0, 2, 4, 1, 3): XiPEkZfFfqmKxjbEzqdjuiXTTSo
+Perm (0, 2, 4, 3, 1): XSPikFfEfZmqxEbKzjdquTXjTio
+Perm (0, 3, 1, 2, 4): XoEPjfqkfxTmjbSuziEdiXZFTqK
+Perm (0, 3, 1, 4, 2): XoSPEfEkfxZmqbKuzijdTXjFTqi
+Perm (0, 3, 2, 1, 4): XEoPjfkqfTxmjbuSzEidiXFZTKq
+Perm (0, 3, 2, 4, 1): XSoPEfkEfZxmqbuKzjidTXFjTiq
+Perm (0, 3, 4, 1, 2): XuSPofEifFZmkbKqzEjdxXjqTTi
+Perm (0, 3, 4, 2, 1): XSuPofiEfZFmkbqKzjEdxXqjTiT
+Perm (0, 4, 1, 2, 3): XbiEPZFdfXqKfjEozkqjmiTxTuS
+Perm (0, 4, 1, 3, 2): XbSiPFEdfXZqfEKozkjqmTjxTui
+Perm (0, 4, 2, 1, 3): XibEPZdFfqXKfjoEzqkjmixTTSu
+Perm (0, 4, 2, 3, 1): XSbiPFdEfZXqfEoKzjkqmTxjTiu
+Perm (0, 4, 3, 1, 2): XuSbPdEifFZXfoKqzEjkmxjqTTi
+Perm (0, 4, 3, 2, 1): XSubPdiEfZFXfoqKzjEkmxqjTiT
+Perm (1, 0, 2, 3, 4): bXkqjTxfdzuSjEiTXPFZiKqfomE
+Perm (1, 0, 2, 4, 3): bXkEqZxfdzuKTjiTXPFjSiqfomE
+Perm (1, 0, 3, 2, 4): bXEkjxqfdzTujiSTXPEFiqZfomK
+Perm (1, 0, 3, 4, 2): bXSkExEfdzZuqiKTXPjFTqjfomi
+Perm (1, 0, 4, 2, 3): bXiEkZFfdzqKxjETXPqjuiTfomS
+Perm (1, 0, 4, 3, 2): bXSikFEfdzZqxEKTXPjquTjfomi
+Perm (1, 2, 0, 3, 4): iXbqjTdfFzXSjEoTqPkZiKxfEmu
+Perm (1, 2, 0, 4, 3): iXbEqZdfFzXKTjoTqPkjSixfEmu
+Perm (1, 2, 3, 0, 4): SXbijFdfEzXqjEoTZPkqiTxfKmu
+Perm (1, 2, 3, 4, 0): KXbiSFdfjzXqEEoTjPkqZTxfimu
+Perm (1, 2, 4, 0, 3): EXbEiZdfqzXKFjoTTPkjqixfSmu
+Perm (1, 2, 4, 3, 0): KXbEiqdfjzXTFSoTjPkEqZxfimu
+Perm (1, 3, 0, 2, 4): uXEbjdqfizTXjoSTFPEkixZfqmK
+Perm (1, 3, 0, 4, 2): uXSbEdEfizZXqoKTFPjkTxjfqmi
+Perm (1, 3, 2, 0, 4): SXubjdifEzFXjoqTZPEkixqfKmT
+Perm (1, 3, 2, 4, 0): KXubSdifjzFXEoqTjPEkZxqfimT
+Perm (1, 3, 4, 0, 2): qXSbudEfEzZXioKTqPjkFxjfTmi
+Perm (1, 3, 4, 2, 0): KXqbudEfjzqXioTTjPSkFxEfimZ
+Perm (1, 4, 0, 2, 3): oXiEbZFfkzqKdjETxPqjXiTfumS
+Perm (1, 4, 0, 3, 2): oXSibFEfkzZqdEKTxPjqXTjfumi
+Perm (1, 4, 2, 0, 3): EXoEbZkfqzxKdjuTTPijXiFfSmq
+Perm (1, 4, 2, 3, 0): KXoEbqkfjzxTdSuTjPiEXZFfimq
+Perm (1, 4, 3, 0, 2): qXSobkEfEzZxduKTqPjiXFjfTmi
+Perm (1, 4, 3, 2, 0): KXqobkEfjzqxduTTjPSiXFEfimZ
+Perm (2, 0, 1, 3, 4): bkXqjTfxduzSjETiXFPZiKfqoEm
+Perm (2, 0, 1, 4, 3): bkXEqZfxduzKTjTiXFPjSifqoEm
+Perm (2, 0, 3, 1, 4): bEXkjxfqdTzujiTSXEPFiqfZoKm
+Perm (2, 0, 3, 4, 1): bSXkExfEdZzuqiTKXjPFTqfjoim
+Perm (2, 0, 4, 1, 3): biXEkZfFdqzKxjTEXqPjuifToSm
+Perm (2, 0, 4, 3, 1): bSXikFfEdZzqxETKXjPquTfjoim
+Perm (2, 1, 0, 3, 4): ibXqjTfdFXzSjEToqkPZiKfxEum
+Perm (2, 1, 0, 4, 3): ibXEqZfdFXzKTjToqkPjSifxEum
+Perm (2, 1, 3, 0, 4): SbXijFfdEXzqjEToZkPqiTfxKum
+Perm (2, 1, 3, 4, 0): KbXiSFfdjXzqEETojkPqZTfxium
+Perm (2, 1, 4, 0, 3): EbXEiZfdqXzKFjToTkPjqifxSum
+Perm (2, 1, 4, 3, 0): KbXEiqfdjXzTFSTojkPEqZfxium
+Perm (2, 3, 0, 1, 4): uEXbjdfqiTzXjoTSFEPkixfZqKm
+Perm (2, 3, 0, 4, 1): uSXbEdfEiZzXqoTKFjPkTxfjqim
+Perm (2, 3, 1, 0, 4): SuXbjdfiEFzXjoTqZEPkixfqKTm
+Perm (2, 3, 1, 4, 0): KuXbSdfijFzXEoTqjEPkZxfqiTm
+Perm (2, 3, 4, 0, 1): qSXbudfEEZzXioTKqjPkFxfjTim
+Perm (2, 3, 4, 1, 0): KqXbudfEjqzXioTTjSPkFxfEiZm
+Perm (2, 4, 0, 1, 3): oiXEbZfFkqzKdjTExqPjXifTuSm
+Perm (2, 4, 0, 3, 1): oSXibFfEkZzqdETKxjPqXTfjuim
+Perm (2, 4, 1, 0, 3): EoXEbZfkqxzKdjTuTiPjXifFSqm
+Perm (2, 4, 1, 3, 0): KoXEbqfkjxzTdSTujiPEXZfFiqm
+Perm (2, 4, 3, 0, 1): qSXobkfEEZzxduTKqjPiXFfjTim
+Perm (2, 4, 3, 1, 0): KqXobkfEjqzxduTTjSPiXFfEiZm
+Perm (3, 0, 1, 2, 4): moEXjfqkbxTzjTSudiEPifZFXqK
+Perm (3, 0, 1, 4, 2): moSXEfEkbxZzqTKudijPTfjFXqi
+Perm (3, 0, 2, 1, 4): mEoXjfkqbTxzjTuSdEiPifFZXKq
+Perm (3, 0, 2, 4, 1): mSoXEfkEbZxzqTuKdjiPTfFjXiq
+Perm (3, 0, 4, 1, 2): muSXofEibFZzkTKqdEjPxfjqXTi
+Perm (3, 0, 4, 2, 1): mSuXofiEbZFzkTqKdjEPxfqjXiT
+Perm (3, 1, 0, 2, 4): umEXjfqbidTzjTSXFoEPifZkqxK
+Perm (3, 1, 0, 4, 2): umSXEfEbidZzqTKXFojPTfjkqxi
+Perm (3, 1, 2, 0, 4): SmuXjfibEdFzjTqXZoEPifqkKxT
+Perm (3, 1, 2, 4, 0): KmuXSfibjdFzETqXjoEPZfqkixT
+Perm (3, 1, 4, 0, 2): qmSXufEbEdZziTKXqojPFfjkTxi
+Perm (3, 1, 4, 2, 0): KmqXufEbjdqziTTXjoSPFfEkixZ
+Perm (3, 2, 0, 1, 4): uEmXjfbqiTdzjTXSFEoPifkZqKx
+Perm (3, 2, 0, 4, 1): uSmXEfbEiZdzqTXKFjoPTfkjqix
+Perm (3, 2, 1, 0, 4): SumXjfbiEFdzjTXqZEoPifkqKTx
+Perm (3, 2, 1, 4, 0): KumXSfbijFdzETXqjEoPZfkqiTx
+Perm (3, 2, 4, 0, 1): qSmXufbEEZdziTXKqjoPFfkjTix
+Perm (3, 2, 4, 1, 0): KqmXufbEjqdziTXTjSoPFfkEiZx
+Perm (3, 4, 0, 1, 2): XuSXmfEioFZzbTKqkEjPdfjqxTi
+Perm (3, 4, 0, 2, 1): XSuXmfiEoZFzbTqKkjEPdfqjxiT
+Perm (3, 4, 1, 0, 2): qXSXmfEoEkZzbTKxqujPdfjiTFi
+Perm (3, 4, 1, 2, 0): KXqXmfEojkqzbTTxjuSPdfEiiFZ
+Perm (3, 4, 2, 0, 1): qSXXmfoEEZkzbTxKqjuPdfijTiF
+Perm (3, 4, 2, 1, 0): KqXXmfoEjqkzbTxTjSuPdfiEiZF
+Perm (4, 0, 1, 2, 3): TbiEXZFdPXqKfjEofkqjziTxmuS
+Perm (4, 0, 1, 3, 2): TbSiXFEdPXZqfEKofkjqzTjxmui
+Perm (4, 0, 2, 1, 3): TibEXZdFPqXKfjoEfqkjzixTmSu
+Perm (4, 0, 2, 3, 1): TSbiXFdEPZXqfEoKfjkqzTxjmiu
+Perm (4, 0, 3, 1, 2): TuSbXdEiPFZXfoKqfEjkzxjqmTi
+Perm (4, 0, 3, 2, 1): TSubXdiEPZFXfoqKfjEkzxqjmiT
+Perm (4, 1, 0, 2, 3): oTiEXZFPkfqKfjEmxbqjziTduXS
+Perm (4, 1, 0, 3, 2): oTSiXFEPkfZqfEKmxbjqzTjduXi
+Perm (4, 1, 2, 0, 3): EToEXZkPqfxKfjumTbijziFdSXq
+Perm (4, 1, 2, 3, 0): KToEXqkPjfxTfSumjbiEzZFdiXq
+Perm (4, 1, 3, 0, 2): qTSoXkEPEfZxfuKmqbjizFjdTXi
+Perm (4, 1, 3, 2, 0): KTqoXkEPjfqxfuTmjbSizFEdiXZ
+Perm (4, 2, 0, 1, 3): oiTEXZPFkqfKfjmExqbjzidTuSX
+Perm (4, 2, 0, 3, 1): oSTiXFPEkZfqfEmKxjbqzTdjuiX
+Perm (4, 2, 1, 0, 3): EoTEXZPkqxfKfjmuTibjzidFSqX
+Perm (4, 2, 1, 3, 0): KoTEXqPkjxfTfSmujibEzZdFiqX
+Perm (4, 2, 3, 0, 1): qSToXkPEEZfxfumKqjbizFdjTiX
+Perm (4, 2, 3, 1, 0): KqToXkPEjqfxfumTjSbizFdEiZX
+Perm (4, 3, 0, 1, 2): XuSTXPEioFZffmKqkEjbzdjqxTi
+Perm (4, 3, 0, 2, 1): XSuTXPiEoZFffmqKkjEbzdqjxiT
+Perm (4, 3, 1, 0, 2): qXSTXPEoEkZffmKxqujbzdjiTFi
+Perm (4, 3, 1, 2, 0): KXqTXPEojkqffmTxjuSbzdEiiFZ
+Perm (4, 3, 2, 0, 1): qSXTXPoEEZkffmxKqjubzdijTiF
+Perm (4, 3, 2, 1, 0): KqXTXPoEjqkffmxTjSubzdiEiZF
